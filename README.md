@@ -96,7 +96,6 @@ Projeto desenvolvido durante a Etec envolvendo gestão, automação e moderniza�
 ## Organização
 
 Este repositório funciona como um ponto central para navegação entre os projetos.
-
 ```text
 Bússola
 │
@@ -104,17 +103,27 @@ Bússola
 │   ├── NoteTecLM
 │   └── G.A.M.E.R
 │
-├── Outros projetos
-│   ├── LCB Brasil
+├── Projetos de estudo fodas
 │   ├── Flappy
 │   ├── Python Project
-│   ├── Pokémon Quiz
+│   ├── Projeto_PTIC
+│   └── Haja_paciencia
+│
+├── Projetos aurudos
+│   ├── LCB Brasil
 │   ├── Hallownest
-│   └── System Data Hub
+│   └── Bramail
+│
+├── Projetos experimentais
+│   └── API com C#
 │
 └── Tecnologias
     ├── Linguagens
-    ├── Frontend
-    ├── Backend
+    ├── Frameworks
     ├── Bancos de dados
     └── Ferramentas
+```
+
+---
+
+ <img src="https://media.tenor.com/4tW3iWTeOugAAAAj/victini.gif"  />
