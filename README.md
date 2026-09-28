@@ -29,8 +29,15 @@ Aplicação para geração de resumos a partir de materiais em PDF, desenvolvida
 Projeto desenvolvido durante a Etec envolvendo gestão, automação e modernização.
 
 **Tecnologias**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express, mongodb" />
+<p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/EmailJS-000000?style=flat" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swup-000000?style=flat" />
+  <img src="https://img.shields.io/badge/Math.js-000000?style=flat" />
+</p>
 
 [Ver repositório](https://github.com/lucafo13/G.A.M.E.R)
 
