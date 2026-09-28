@@ -11,8 +11,7 @@ A proposta é reunir os principais projetos, tecnologias utilizadas e outros tra
 ## Projetos principais
 
 <table>
-  <tr>
-    <td width="50%">
+
 
 ### [NoteTecLM](https://github.com/lucafo13/noteTecLM)
 
@@ -24,9 +23,6 @@ Aplicação para geração de resumos a partir de materiais em PDF, desenvolvida
 
 [Ver repositório](https://github.com/lucafo13/noteTecLM)
 
-    </td>
-
-    <td width="50%">
 
 ### G.A.M.E.R
 
@@ -34,12 +30,12 @@ Projeto desenvolvido durante a Etec envolvendo gestão, automação e moderniza�
 
 **Tecnologias**
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express, mongodb" />
 
 [Ver repositório](https://github.com/lucafo13/G.A.M.E.R)
 
     </td>
-  </tr>
+
 </table>
 
 ---
