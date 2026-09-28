@@ -51,13 +51,16 @@ Projeto desenvolvido durante a Etec envolvendo gestão, automação e moderniza�
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [LCB Brasil](https://github.com/lucafo13/LCB-Brasil) | Wiki sobre Limbus Company | HTML, CSS, JavaScript |
-| [Flappy](https://github.com/lucafo13/flappy) | Projeto inspirado em Flappy Bird | Python, Pygame |
-| [Python Project](https://github.com/lucafo13/python-projeto) | Projetos e experimentos em Python | Python |
-| Pokémon Quiz | Quiz interativo baseado em Pokémon | HTML, CSS, JavaScript |
+| [LCB Brasil](https://github.com/lucafo13/LCB-Brasil) | Wiki sobre Limbus Company | <p> ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)</p> |
+| [Flappy](https://github.com/lucafo13/flappy) | Projeto inspirado em Flappy Bird para Escola | Python, Pygame |
+| [Python Project](https://github.com/lucafo13/python-projeto) | Projetos e experimentos em Python | Python, Pygame |
+| Pokémon Quiz | Quiz interativo baseado em Pokémon | HTML, CSS, JavaScript, Axios |
 | Hallownest | Projeto inspirado em Hollow Knight | HTML, CSS, JavaScript |
-| System Data Hub | Experimentos utilizando Tauri | Rust, Tauri |
-
+| System Data Hub | Experimentos utilizando Tauri | <p>![Rust](https://skillicons.dev/icons?i=rust)  ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js)</p> |
+| [Projeto_PTIC](https://github.com/lucafo13/Projeto_PTIC) | Projeto escolar sobre soluções para controle de estoque| ![C#](https://skillicons.dev/icons?i=cs) |
+| [Projeto](#) | Descrição do projeto | Tecnologias utilizadas |
+| [Projeto](#) | Descrição do projeto | Tecnologias utilizadas |
+| [Projeto](#) | Descrição do projeto | Tecnologias utilizadas |
 ---
 
 ## Tecnologias
