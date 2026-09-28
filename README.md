@@ -1,5 +1,25 @@
 # Bussola
 
+---
+
+## Repositório guia para os outros projetos dentro do portifólio
+
+
+
+
+---
+
+# Projetos principais:
+
+<table border="0">
+  <tr>
+    <td>[NoteTecLM](https://github.com/lucafo13/noteTecLM)<</td>
+    <td>![JavaScript](https://skillicons.dev/icons?i=js)</td>
+    <td>![JavaScript](https://skillicons.dev/icons?i=ts)</td>
+  </tr>
+</table>
+[NoteTecLM](https://github.com/lucafo13/noteTecLM)
+[G.A.M.E.R](https://github.com/lucafo13/noteTecLM)
 
 ![C#](https://skillicons.dev/icons?i=cs)
 ![Python](https://skillicons.dev/icons?i=python)
